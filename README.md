@@ -1,0 +1,1 @@
+"Ipchat" is a completely open source and free software. You can download the server and client to build your own chat server, so that people can connect to your server and chat together! The software is easy to use and developed based on "easy language". Please contact us if there is a bug icebce123@163.com
